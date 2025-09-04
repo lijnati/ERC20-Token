@@ -12,6 +12,3 @@ This project demonstrates how to create, test, and deploy an ERC-20 token on Eth
 - Deployable to Ethereum testnets (e.g., Sepolia)
 - Example deployment scripts included
 - Extendable for custom functionality (minting, burning, pausing, etc.)
-
-
-
